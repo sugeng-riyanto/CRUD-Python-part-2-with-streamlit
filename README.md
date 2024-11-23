@@ -4,8 +4,6 @@
 
 ---
 
-## Target Audience:
-- Students with basic Python knowledge (Semester 1).
 
 ## Duration:
 - 2 sessions of 40 minutes each.
